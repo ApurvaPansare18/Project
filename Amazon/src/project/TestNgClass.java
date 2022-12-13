@@ -8,7 +8,7 @@ public class TestNgClass {
 	@BeforeClass
 	public void beforeClass()
 	{
-		System.out.println("Before Class");
+		System.out.println("Before Class methodddddd");
 	}
     
 	@BeforeMethod
